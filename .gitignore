@@ -1,0 +1,8 @@
+# vscode settings
+.vscode
+
+# pyenv
+.python-version
+
+# python cache
+*.pyc
